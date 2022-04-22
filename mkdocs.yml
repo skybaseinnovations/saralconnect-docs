@@ -1,0 +1,14 @@
+site_name: Saral Connect
+theme:
+  name: material
+nav:
+  - Home: "index.md"
+  - Import Students: "import.md"
+  - Set up Your Class: "class.md"
+  - Examination Module: "exam.md"
+  - Exams Mark Entry: "marks.md"
+  - Generate/Print Exam Report: "report.md"
+  - Set up Your School: "setup.md"
+  - Fees Module: "fee.md"
+
+
